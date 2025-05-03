@@ -1,5 +1,3 @@
-### __main__.py
-
 """Entry point for the homework package."""
 
 # python3 -m homework data/input data/output
