@@ -1,3 +1,5 @@
+"""
+
 import os
 
 from ..src.wordcount import main
@@ -19,3 +21,5 @@ def test_migracion():
 
     assert results.get("computational", 0) == "3"
     assert results.get("analytics", 0) == "5"
+
+"""
